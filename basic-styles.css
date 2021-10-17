@@ -1,0 +1,26 @@
+.header1 {
+  padding: 10px 10px;
+  background-color: #e3f4fe;
+}
+#form1 {
+  padding-left: 30px;
+  padding-top: 20px;
+  background-color: #e3f4fe;
+}
+
+#cryptoResults, #cryptoResults2 {
+  padding: 50px;
+  padding-bottom: 20px;
+  float:none;
+  text-align: center;
+}
+
+#forecastResults {
+  padding: 10px;
+  float:none;
+  text-align: center;
+}
+
+.text-small {
+  font-size: 13px;
+}
